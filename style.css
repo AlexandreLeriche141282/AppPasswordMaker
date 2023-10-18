@@ -7,14 +7,13 @@
 body {
   display: flex;
   justify-content: center;
-  align-items: flex-start;
+  align-items: center;
   min-height: 100vh;
   margin: 0;
-  background: url(./mdp.webp) center/cover;
+  background:#042b5f;
 }
 .app {
   background-image: linear-gradient(to right, #ff758c 0%, #ff7eb3 100%);
-  margin: 145px 350px 0 0;
   padding: 24px 10px 10px;
   border-radius: 16px;
   width: 90%;
